@@ -18,3 +18,5 @@
 ![](https://i.imgur.com/B7Fz2Tk.jpg)
 > #### Save new password
 ![](https://i.imgur.com/Enbk87V.jpg)
+
+> NOTE: Don't delete it, wherever you clone the folder. After installing globally through npm, it will create the shortcut to the node_modules repository inside the "home" repo.
