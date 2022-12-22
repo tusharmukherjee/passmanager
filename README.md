@@ -9,3 +9,5 @@
 3.  Open the repo in your system within the PWD.
 4.  On CMD, "npm install -g".
 5.  In CMD with any path, trigger the app with the "passmanager" command.
+
+##### NO THIRD-PARTY PACKAGE IS USED!
