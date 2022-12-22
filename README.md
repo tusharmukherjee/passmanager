@@ -11,3 +11,10 @@
 5.  In CMD with any path, trigger the app with the "passmanager" command.
 
 ##### NO THIRD-PARTY PACKAGE IS USED!
+
+#### Password Generator Length(16)
+![](https://i.imgur.com/FhQzZLd.jpg)
+#### Find Password & Copy to Clipboard  
+![](https://i.imgur.com/B7Fz2Tk.jpg)
+#### Save new password
+![](https://i.imgur.com/Enbk87V.jpg)
